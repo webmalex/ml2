@@ -1,0 +1,7 @@
+tf:
+  image: b.gcr.io/tensorflow-udacity/assignments:0.3.0
+  ports:
+    - 8888:8888
+  volumes:
+    - .:/notebooks 
+  # restart: always
