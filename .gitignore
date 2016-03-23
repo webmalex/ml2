@@ -3,3 +3,4 @@ notMNIST_small
 *.pickle
 *.gz
 .ipynb_checkpoints
+*.zip
